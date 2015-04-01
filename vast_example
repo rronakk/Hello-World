@@ -1,1 +1,226 @@
-<VAST xmlns:xsi=\"https://www.w3.org/2001/XMLSchema-instance\" version=\"2.0\" xsi:noNamespaceSchemaLocation=\"vast.xsd\"> <Ad id=\"1431008\"> <InLine> <AdSystem version=\"5.0.12\">MediaMath T1 VADS</AdSystem> <AdTitle> <![CDATA[ test one ]]> </AdTitle> <Description> <![CDATA[ test one ]]> </Description> <Error> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=err&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Error> <Impression> <![CDATA[ https://www.amazon.com ]]> </Impression> <Impression> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/notify?price=12&id=asfasf&cid=1431008&exch=brx&protocol_version=1&sid=111666111 ]]> </Impression> <Impression> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=imp&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Impression> <Creatives> <Creative id=\"1431008\" sequence=\"0\"> <Linear> <Duration>00:00:15</Duration> <TrackingEvents> <Tracking event=\"firstQuartile\"> <![CDATA[ https://www.google.com ]]> </Tracking> <Tracking event=\"midpoint\"> <![CDATA[ https://www.facebook.com ]]> </Tracking> <Tracking event=\"complete\"> <![CDATA[ https://www.aol.com ]]> </Tracking> <Tracking event=\"thirdQuartile\"> <![CDATA[ https://www.time.com ]]> </Tracking> <Tracking event=\"pause\"> <![CDATA[ https://www.pause.com ]]> </Tracking> <Tracking event=\"mute\"> <![CDATA[ https://www.mute.com ]]> </Tracking> <Tracking event=\"close\"> <![CDATA[ https://www.close.com ]]> </Tracking> <Tracking event=\"resume\"> <![CDATA[ https://www.resume.com ]]> </Tracking> <Tracking event=\"rewind\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=rewind&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"close\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=close&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"expand\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=expand&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"collapse\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=collapse&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"complete\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=q4&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"unmute\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=unmute&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"firstQuartile\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=q1&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"midpoint\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=q2&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"creativeView\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=vv&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"fullscreen\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=fullscreen&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"pause\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=pause&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"resume\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=resume&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"acceptInvitation\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=acceptInvitation&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"thirdQuartile\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=q3&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"start\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=vst&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> <Tracking event=\"mute\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_aid=123&event=mute&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </Tracking> </TrackingEvents> <VideoClicks> <ClickThrough> <![CDATA[ https://www.yahoo.com ]]> </ClickThrough> <ClickTracking> <![CDATA[ https://www.yahoo.com ]]> </ClickTracking> <ClickTracking> <![CDATA[ https://pixel.mathtag.com/click/img?cb=620717113912351744&mt_aid=123&event=click&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111 ]]> </ClickTracking> </VideoClicks> <MediaFiles> <MediaFile type=\"video/ogg\" bitrate=\"459\" delivery=\"progressive\" width=\"480\" height=\"368\" scalable=\"true\" maintainAspectRatio=\"true\"> <![CDATA[ https://d18qvo33n7nejy.cloudfront.net/c8ce44ae705a770aeeb751bf77463f10e83e99c0-eb94-4920-a5a6-4a9df322afe2.ogg ]]> </MediaFile> <MediaFile type=\"video/x-ms-wmv\" bitrate=\"481\" delivery=\"progressive\" width=\"480\" height=\"368\" scalable=\"true\" maintainAspectRatio=\"true\"> <![CDATA[ https://d18qvo33n7nejy.cloudfront.net/1aa8c6118d7a9749b4d7915296bb54054981b05b-2dcb-437b-93d7-68e505e9ce1c.wmv ]]> </MediaFile> <MediaFile type=\"video/x-flv\" bitrate=\"577\" delivery=\"progressive\" width=\"480\" height=\"368\" scalable=\"true\" maintainAspectRatio=\"true\"> <![CDATA[ https://d18qvo33n7nejy.cloudfront.net/c8d05e02783cfbb7c8ae29b11ea8f1004f372bde-d581-47fb-b9ab-3d140c449a8d.flv ]]> </MediaFile> <MediaFile type=\"video/mp4\" bitrate=\"484\" delivery=\"progressive\" width=\"300\" height=\"230\" scalable=\"true\" maintainAspectRatio=\"true\"> <![CDATA[ https://d18qvo33n7nejy.cloudfront.net/230e8832e6d595deee9c5fcbb6a469844a3d242b-1f2f-49f7-a6bd-5e09365c7efb.mp4 ]]> </MediaFile> <MediaFile type=\"video/webm\" bitrate=\"172\" delivery=\"progressive\" width=\"480\" height=\"368\" scalable=\"true\" maintainAspectRatio=\"true\"> <![CDATA[ https://d18qvo33n7nejy.cloudfront.net/97d6a5564febeb1ad77da109dcbddedd6e679ce2-dcaf-4752-9a5c-5ec7ca693a6b.webm ]]> </MediaFile> <MediaFile type=\"video/mp4\" bitrate=\"574\" delivery=\"progressive\" width=\"480\" height=\"368\" scalable=\"true\" maintainAspectRatio=\"true\"> <![CDATA[ https://d18qvo33n7nejy.cloudfront.net/87a785787c5a3f8d70bac830083c0733c829a918-6749-4c2a-a478-74723b64f6a9.mp4 ]]> </MediaFile> </MediaFiles> </Linear> </Creative> <Creative id=\"1431008_companion\" sequence=\"0\"> <CompanionAds> <Companion id=\"companion_1\" width=\"300\" height=\"200\"> <StaticResource creativeType=\"image/gif\"> <![CDATA[ https://s3.amazonaws.com/mediamath-test/c8fed35720671596882b0c6a2ad9586d.gif ]]> </StaticResource> <TrackingEvents> <Tracking event=\"creativeView\"> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_cmid=1&mt_aid=123&event=companionImpression&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111&mt_uuid=544d29ad-f480-442a-bac9-a77fb36ed365 ]]> </Tracking> </TrackingEvents> <CompanionClickThrough> <![CDATA[ https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=620717113912351744&mt_cmid=1&redir=https%3A%2F%2Fwww.mediamath.com&mt_aid=123&event=companionClick&mt_id=1431008&mt_exid=brx&mt_adid=123&mt_stid=111666111&mt_uuid=b7fb9430-a993-4260-bdc1-39d33dfe7b6c ]]> </CompanionClickThrough> </Companion> </CompanionAds> </Creative> </Creatives> </InLine> </Ad> </VAST>
+<VAST version="2.0" encoding="utf-8">
+<Ad id="1431139">
+<Wrapper>
+<AdSystem>Acudeo Compatible</AdSystem>
+<VASTAdTagURI>
+https://demo.tremormedia.com/proddev/vast/vast_inline_linear.xml
+</VASTAdTagURI>
+<Error>
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=err&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Error>
+<Impression>https://myTrackingURL/wrapper/impression</Impression>
+<Impression>
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/notify?price=12&id=asfasf&cid=1431139&exch=brx&protocol_version=1&sid=111666111
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=imp&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="1431139">
+<Linear>
+<TrackingEvents>
+<Tracking event="creativeView">https://myTrackingURL/wrapper/creativeView</Tracking>
+<Tracking event="start">https://myTrackingURL/wrapper/start</Tracking>
+<Tracking event="midpoint">https://myTrackingURL/wrapper/midpoint</Tracking>
+<Tracking event="firstQuartile">https://myTrackingURL/wrapper/firstQuartile</Tracking>
+<Tracking event="thirdQuartile">https://myTrackingURL/wrapper/thirdQuartile</Tracking>
+<Tracking event="complete">https://myTrackingURL/wrapper/complete</Tracking>
+<Tracking event="mute">https://myTrackingURL/wrapper/mute</Tracking>
+<Tracking event="unmute">https://myTrackingURL/wrapper/unmute</Tracking>
+<Tracking event="pause">https://myTrackingURL/wrapper/pause</Tracking>
+<Tracking event="resume">https://myTrackingURL/wrapper/resume</Tracking>
+<Tracking event="fullscreen">https://myTrackingURL/wrapper/fullscreen</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=rewind&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=close&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=expand&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=collapse&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=q4&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=unmute&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=q1&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=q2&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="creativeView">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=vv&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=fullscreen&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=pause&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=resume&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=acceptInvitation&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=q3&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=vst&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=mute&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[
+https://pixel.mathtag.com/click/img?cb=7901304159932546048&mt_aid=123&event=click&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</ClickTracking>
+</VideoClicks>
+</Linear>
+</Creative>
+<Creative AdID="1431139">
+<Linear>
+<TrackingEvents>
+<Tracking event="rewind">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=rewind&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=close&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=expand&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=collapse&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=q4&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=unmute&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=q1&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=q2&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="creativeView">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=vv&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=fullscreen&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=pause&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=resume&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=acceptInvitation&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=q3&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=vst&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7901304159932546048&mt_aid=123&event=mute&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>https://myTrackingURL/wrapper/click</ClickTracking>
+<ClickTracking>
+<![CDATA[
+https://pixel.mathtag.com/click/img?cb=7901304159932546048&mt_aid=123&event=click&mt_id=1431139&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</ClickTracking>
+</VideoClicks>
+</Linear>
+</Creative>
+</Creatives>
+</Wrapper>
+</Ad>
+</VAST>
